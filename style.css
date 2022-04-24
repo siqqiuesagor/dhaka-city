@@ -1,0 +1,30 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 00px;
+}
+
+.dhaka {
+    text-align: center;
+    font-size: 200%;
+    background-image: url(sailor-blue-banner.jpg);
+
+
+
+}
+
+
+
+#dream {
+    background-color: rgb(14, 105, 196);
+    color: rgb(185, 197, 192);
+    margin: 70px;
+    padding: 2%;
+}
+
+#sailor {
+    color: rgb(75, 135, 196);
+}
+
+#mint {
+    color: rgb(133, 161, 149);
+}
