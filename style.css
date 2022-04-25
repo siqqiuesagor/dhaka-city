@@ -162,3 +162,7 @@ span {
 #lastid2 {
     color: #888888;
 }
+
+a {
+    text-decoration: none;
+}
