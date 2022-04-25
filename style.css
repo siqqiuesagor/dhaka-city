@@ -1,30 +1,80 @@
 body {
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    margin: 00px;
+    font-family: 'Poppins', sans-serif;
 }
 
-.dhaka {
+.section1 {
+    display: flex;
+}
+
+#junk1 {
+    font-size: 50px;
     text-align: center;
-    font-size: 200%;
-    background-image: url(sailor-blue-banner.jpg);
+    padding-top: 100px;
+}
 
+.about1 {
+    font-size: 50px;
+    text-align: center;
+    padding-top: 100px;
+}
 
+span {
+    color: blueviolet;
+}
+
+.button {
+    background-image: linear-gradient(violet, pink);
+    border: none;
+    border-radius: 20px;
+    color: black;
+    padding: 20px 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
 
 }
 
 
+#img1 {
 
-#dream {
-    background-color: rgb(14, 105, 196);
-    color: rgb(185, 197, 192);
-    margin: 70px;
+    border-radius: 4px;
+    padding: 5px;
+    width: 600px;
+    padding-left: 10px;
+    padding-bottom: 50px;
+}
+
+#img2 {
+    border-radius: 4px;
+    padding: 5px;
+    width: 400px;
+    padding-left: 10px;
+
+    padding-bottom: 50px;
+}
+
+.food1 {
+    width: 50%;
     padding: 2%;
 }
 
-#sailor {
-    color: rgb(75, 135, 196);
+.food2 {
+    width: 50%;
+    padding: 2%;
 }
 
-#mint {
-    color: rgb(133, 161, 149);
+.section2 {
+    display: flex;
+    background-image: url(images/shapes/Frame\ 59.jpg);
+}
+
+
+}
+
+.p1 {
+    padding-top: 100px;
+    text-align: justify;
+    padding-bottom: 100px;
+
 }
