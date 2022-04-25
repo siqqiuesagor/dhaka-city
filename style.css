@@ -101,8 +101,8 @@ span {
     width: 33.33%;
     border-radius: 20px;
     padding: 30px 40px 30px 40px;
-    padding-top: 50px;
-    margin: 10px;
+
+    margin: 50px;
     border: white;
     box-shadow: 5px 5px 4px 5px #888888;
     text-align: center;
@@ -118,4 +118,45 @@ span {
 
 .cover {
     width: 200px;
+}
+
+#flex-container {
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+    border-radius: 20px;
+    box-shadow: 5px 10px gray;
+    padding: 20px 50px;
+
+    margin: 60px;
+}
+
+.flex-item {
+    width: 33.33%;
+    /* font-size: 22px; */
+    font-weight: 900;
+    padding: 5px 20px;
+
+}
+
+.section4 {
+    background-color: #0e1b3b;
+    text-align: center;
+    padding: 40px 60px;
+    font-size: 25px;
+
+}
+
+#last {
+    color: white;
+}
+
+#lastid {
+    color: khaki;
+}
+
+#lastid2 {
+    color: #888888;
 }
