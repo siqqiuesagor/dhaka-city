@@ -48,7 +48,7 @@ span {
 #img2 {
     border-radius: 4px;
     padding: 5px;
-    width: 400px;
+    width: 500px;
     padding-left: 10px;
 
     padding-bottom: 50px;
@@ -67,6 +67,8 @@ span {
 .section2 {
     display: flex;
     background-image: url(images/shapes/Frame\ 59.jpg);
+    background-repeat: no-repeat;
+    background-size: 3000px;
 
 }
 
